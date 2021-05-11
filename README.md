@@ -1,3 +1,5 @@
+![](https://github.com/scanapi/design/raw/main/images/github-hero-dark.png)
+
 # Design
 
 Logos and icons for ScanAPI. More details can be found in the [sketch](./sketch/scanapi.sketch) file.
